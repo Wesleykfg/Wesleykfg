@@ -3,7 +3,7 @@
 - ⚪📚 Graduado em Administração na Universidade Cruzeiro do Sul - UNICSUL.
 - ⚪🖥 Desenvolvedor Java Full-Stack Jr. em formação - Generation Brasil.
 - ⚪🎮 Hobby: Desenhar, ouvir música e jogar jogos (principalmente RPG).
-- ⚪📍 São Paulo - SP
+- ⚪📍 São Paulo - SP.
 
 <div align="center">
   <a href="https://github.com/Wesleykfg">
@@ -22,6 +22,6 @@
   <a href = "wesleykelvin59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-gomes-528978142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Wesleykfg/Wesleykfg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
