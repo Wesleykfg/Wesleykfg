@@ -12,9 +12,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesss-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img alt="Biell-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Wesss-Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Wesss-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e479ignbeh6t5ihwqymve0gfg80fj9nf4pbmaujmfjb&rid=giphy.gif&ct=g">
+  <img align="right" alt="Wesss-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e479ignbeh6t5ihwqymve0gfg80fj9nf4pbmaujmfjb&rid=giphy.gif&ct=g">
 </div>
   
   ##
