@@ -15,6 +15,17 @@
   <img align="center" alt="Wesss-Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Wesss-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="right" alt="Wesss-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e479ignbeh6t5ihwqymve0gfg80fj9nf4pbmaujmfjb&rid=giphy.gif&ct=g">
+  <img align="center" alt="java" height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /> 
+  <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  <img align="center" alt="MySQL" height="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
+  <img align="center" alt="Spring" height="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/> 
+  <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
+  <img align="center" alt="React" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="JavaScript" height="60" width="40" src="https://cdn-icons-png.flaticon.com/512/136/136530.png"/>
+  <img align="center" alt="NODE" height="70" width="100" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+  <img align="center" alt="AWS" height="70" width="100" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+  <img align="center" alt="Linux" height="30" src="https://cdn-icons-png.flaticon.com/512/546/546049.png"/>
+  <img align="center" alt="Swagger" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/swagger.svg"/>
 </div>
   
   ##
