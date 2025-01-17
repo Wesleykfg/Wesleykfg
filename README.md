@@ -1,7 +1,9 @@
 ## Ola eu sou o Wesley!!! 😊
 
 - ⚪📚 Graduado em Administração na Universidade Cruzeiro do Sul - UNICSUL.
-- ⚪🖥 Desenvolvedor Java Full-Stack Jr. em formação - Generation Brasil.
+- ⚪🖥 Desenvolvedor Java Full-Stack Jr. - Generation Brasil.
+- ⚪🖥 Desenvolvedor Java Back-End ImpulsoTec- Accenture.
+- ⚪🖥 Desenvolvedor JavaScript Back-End Projeto One em formação. - Oracle em parceria com Alura.
 - ⚪🎮 Hobby: Desenhar, ouvir música e jogar jogos (principalmente RPG).
 - ⚪📍 São Paulo - SP.
 
